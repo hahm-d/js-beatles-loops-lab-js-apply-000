@@ -19,3 +19,10 @@ function johnLennonFacts(arr){
   }
   return output;
 }
+
+function iLoveTheBeatles(num){
+  let output = [];
+  
+  
+  
+}
