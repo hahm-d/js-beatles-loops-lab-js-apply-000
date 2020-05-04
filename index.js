@@ -11,8 +11,9 @@ function theBeatlesPlay(arr1, arr2){
 }
 
 function johnLennonFacts(arr){
-  while(arr ){
-    
+  let output = [];
+  while(output.length < arr.length){
+    output.push(arr  `"!!!"`
   }
-
+  return  output;
 }
