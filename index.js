@@ -11,9 +11,11 @@ function theBeatlesPlay(arr1, arr2){
 }
 
 function johnLennonFacts(arr){
-  let output = [];
-  while(output.length < arr.length){
-    output.push(arr  `"!!!"`
+  let output = [], counter = 0;
+  
+  while(counter < arr.length){
+    output.push(arr[counter] + `"!!!"`);
+    counter++;
   }
-  return  output;
+  return output;
 }
