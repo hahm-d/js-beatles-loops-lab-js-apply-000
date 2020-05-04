@@ -11,5 +11,8 @@ function theBeatlesPlay(arr1, arr2){
 }
 
 function johnLennonFacts(arr){
-  
+  while(arr ){
+    
+  }
+
 }
